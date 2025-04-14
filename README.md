@@ -10,4 +10,4 @@ Die Webseite ist online erreichbar unter:
 - HTML  
 - CSS  
 - JavaScript  
-- PHP (falls verwendet)  
+- PHP
